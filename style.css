@@ -52,6 +52,7 @@ img {
 }
 a {
   font-size: 32px;
+  color: antiquewhite;
 }
 a:hover {
   color: orange;
