@@ -6,9 +6,11 @@
   padding: 0;
   /* border: 1px solid gold; */
 }
-html {
+body {
   background-color: darkslategray;
   color: antiquewhite;
+  margin: 0;
+  min-height: 100vh;
 }
 h1 {
   font-size: 60px;
