@@ -4,9 +4,12 @@
   color: antiquewhite;
   margin: 0;
   padding: 0;
-  /* border: 1px solid gold; */
+  border: 1px solid gold;
 }
-
+html {
+  background-color: darkslategray;
+  color: antiquewhite;
+}
 h1 {
   font-size: 60px;
   margin: 20px;
@@ -30,6 +33,8 @@ img {
 
 .foodPics {
   display: flex;
+  justify-content: center;
+  align-items: center;
   flex-direction: row;
   padding: 15px;
 }
